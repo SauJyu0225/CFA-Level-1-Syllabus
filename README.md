@@ -1,4 +1,4 @@
-# CFA-Level-1-Syllabus
+# CFA Level 1 Syllabus
 
 ## Introduction
 
