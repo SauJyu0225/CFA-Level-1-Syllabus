@@ -2,32 +2,17 @@
 
 ## Introduction
 
-### Calculator Guidance
-- [x] Introduction
-- [x] Setting Up the Calculator & Memory Funcitons
+- [x] Calculator Guidance
+
 - [x] Time Value of Money
-- [x] Capital Budgeting
-- [x] Statistics (Standard Deviation)
-- [x] Linear Regression and Covariance
-- [x] Probabilities
 
-### Time Value of Money
-
-#### The Time Value of Money
-- [x] Interest Rate (1)
-- [x] Interest Rate (2)
-- [x] Present Value and Future Value (1)
-- [x] Present Value and Future Value (2)
-
-#### Discounted Cash Flow Application
-- [x] Evaluation of Cash Flow Stream
-- [x] Return and Measurements
+- [x] Quantitative Methods
 
 
 ## Quantitative Methods
 
 ### Quantitative Methods: Basic Concepts
-- [ ] Brief Introduction
+- [x] Brief Introduction
 - [ ] Interest Rate
 - [ ] Effective Annual Rate
 - [ ] Future Value and Present Value
