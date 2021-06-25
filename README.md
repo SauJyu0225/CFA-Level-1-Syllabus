@@ -13,8 +13,8 @@
 
 ### Quantitative Methods: Basic Concepts
 - [x] Brief Introduction
-- [ ] Interest Rate
-- [ ] Effective Annual Rate
+- [x] Interest Rate
+- [x] Effective Annual Rate
 - [ ] Future Value and Present Value
 - [ ] Applications of Calculators
  
